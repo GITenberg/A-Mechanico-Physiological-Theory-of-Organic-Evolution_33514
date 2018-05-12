@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Carl_N%C3%A4geli
 description: A translation of the summary of the author's Mechanisch-physiologische
   Theorie der Abstammungslehre.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33514#A-Mechanico-Physiological-Theory-of-Organic-Evolution
 gutenberg_issued: '2010-08-23'
 gutenberg_type: Text
 identifiers:
