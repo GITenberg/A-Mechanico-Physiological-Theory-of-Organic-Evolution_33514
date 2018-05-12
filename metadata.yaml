@@ -1,0 +1,31 @@
+_repo: A-Mechanico-Physiological-Theory-of-Organic-Evolution_33514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nägeli, Carl
+    aliases:
+    - Nageli, Carl
+    - Nägeli, Carl von
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '36447'
+    url: http://www.gutenberg.org/2009/agents/36447
+    wikipedia: http://en.wikipedia.org/wiki/Carl_N%C3%A4geli
+description: A translation of the summary of the author's Mechanisch-physiologische
+  Theorie der Abstammungslehre.
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution'
+title: A Mechanico-Physiological Theory of Organic Evolution
+url: http://www.gutenberg.org/ebooks/33514
